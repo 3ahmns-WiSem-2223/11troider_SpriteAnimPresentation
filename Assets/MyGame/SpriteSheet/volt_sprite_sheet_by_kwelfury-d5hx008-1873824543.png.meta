@@ -1,37 +1,37 @@
 fileFormatVersion: 2
-guid: d0addf39dafc32f45b3f0644dec42ff4
+guid: 7f4f5d777b3875248b70213725c9a6fe
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4672770299079540279
-    second: uKH0t-831648952_0
+      213: -2269169521567734020
+    second: volt_sprite_sheet_by_kwelfury-d5hx008-1873824543_0
   - first:
-      213: 5993712478968342372
-    second: uKH0t-831648952_1
+      213: 6369203485205246366
+    second: volt_sprite_sheet_by_kwelfury-d5hx008-1873824543_1
   - first:
-      213: 94600434296403200
-    second: uKH0t-831648952_2
+      213: -1952506831052478322
+    second: volt_sprite_sheet_by_kwelfury-d5hx008-1873824543_2
   - first:
-      213: -3243060161582690689
-    second: uKH0t-831648952_3
+      213: -6029448067412776682
+    second: volt_sprite_sheet_by_kwelfury-d5hx008-1873824543_3
   - first:
-      213: -5607335747179966414
-    second: uKH0t-831648952_4
+      213: -39512744953877624
+    second: volt_sprite_sheet_by_kwelfury-d5hx008-1873824543_4
   - first:
-      213: 624971311711453447
-    second: uKH0t-831648952_5
+      213: -948976160182146232
+    second: volt_sprite_sheet_by_kwelfury-d5hx008-1873824543_5
   - first:
-      213: 5501152982119155463
-    second: uKH0t-831648952_6
+      213: -246250202911680109
+    second: volt_sprite_sheet_by_kwelfury-d5hx008-1873824543_6
   - first:
-      213: -5742482705207233590
-    second: uKH0t-831648952_7
+      213: 1952824237211905144
+    second: volt_sprite_sheet_by_kwelfury-d5hx008-1873824543_7
   - first:
-      213: 7511898896692248254
-    second: uKH0t-831648952_8
+      213: -8623259133489632162
+    second: volt_sprite_sheet_by_kwelfury-d5hx008-1873824543_8
   - first:
-      213: -3564419634444156025
-    second: uKH0t-831648952_9
+      213: -3546866481276630952
+    second: volt_sprite_sheet_by_kwelfury-d5hx008-1873824543_9
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -73,7 +73,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -121,211 +121,211 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: uKH0t-831648952_0
+      name: volt_sprite_sheet_by_kwelfury-d5hx008-1873824543_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 7
-        width: 176
-        height: 380
+        x: 41
+        y: 280
+        width: 138
+        height: 185
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73eb1a164d309d040800000000000000
-      internalID: 4672770299079540279
+      spriteID: cf6efcbb75a4280e0800000000000000
+      internalID: -2269169521567734020
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: uKH0t-831648952_1
+      name: volt_sprite_sheet_by_kwelfury-d5hx008-1873824543_1
       rect:
         serializedVersion: 2
-        x: 187
-        y: 4
-        width: 213
-        height: 383
+        x: 189
+        y: 265
+        width: 151
+        height: 182
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 467ebba5eb1fd2350800000000000000
-      internalID: 5993712478968342372
+      spriteID: e91b6d503d4f36850800000000000000
+      internalID: 6369203485205246366
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: uKH0t-831648952_2
+      name: volt_sprite_sheet_by_kwelfury-d5hx008-1873824543_2
       rect:
         serializedVersion: 2
-        x: 406
-        y: 15
-        width: 223
-        height: 372
+        x: 365
+        y: 258
+        width: 154
+        height: 176
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 005b5d10896105100800000000000000
-      internalID: 94600434296403200
+      spriteID: e88e799c16d47e4e0800000000000000
+      internalID: -1952506831052478322
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: uKH0t-831648952_3
+      name: volt_sprite_sheet_by_kwelfury-d5hx008-1873824543_3
       rect:
         serializedVersion: 2
-        x: 637
-        y: 15
-        width: 241
-        height: 372
+        x: 573
+        y: 253
+        width: 129
+        height: 192
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7e84ab27f55ef2d0800000000000000
-      internalID: -3243060161582690689
+      spriteID: 61922369de8135ca0800000000000000
+      internalID: -6029448067412776682
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: uKH0t-831648952_4
+      name: volt_sprite_sheet_by_kwelfury-d5hx008-1873824543_4
       rect:
         serializedVersion: 2
-        x: 886
-        y: 13
-        width: 229
-        height: 374
+        x: 737
+        y: 247
+        width: 135
+        height: 189
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2301dfcc8ddbe22b0800000000000000
-      internalID: -5607335747179966414
+      spriteID: 88b6ce82e5f937ff0800000000000000
+      internalID: -39512744953877624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: uKH0t-831648952_5
+      name: volt_sprite_sheet_by_kwelfury-d5hx008-1873824543_5
       rect:
         serializedVersion: 2
-        x: 1123
-        y: 3
-        width: 298
-        height: 384
+        x: 28
+        y: 45
+        width: 136
+        height: 182
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7010f55c8185ca800800000000000000
-      internalID: 624971311711453447
+      spriteID: 84b6700d53f84d2f0800000000000000
+      internalID: -948976160182146232
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: uKH0t-831648952_6
+      name: volt_sprite_sheet_by_kwelfury-d5hx008-1873824543_6
       rect:
         serializedVersion: 2
-        x: 1429
-        y: 10
-        width: 335
-        height: 377
+        x: 189
+        y: 41
+        width: 154
+        height: 184
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7070b4aad75085c40800000000000000
-      internalID: 5501152982119155463
+      spriteID: 399d491ceb4259cf0800000000000000
+      internalID: -246250202911680109
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: uKH0t-831648952_7
+      name: volt_sprite_sheet_by_kwelfury-d5hx008-1873824543_7
       rect:
         serializedVersion: 2
-        x: 1771
-        y: 40
-        width: 297
-        height: 347
+        x: 362
+        y: 44
+        width: 159
+        height: 172
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac37c43976a9e40b0800000000000000
-      internalID: -5742482705207233590
+      spriteID: 87ce9c71c43d91b10800000000000000
+      internalID: 1952824237211905144
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: uKH0t-831648952_8
+      name: volt_sprite_sheet_by_kwelfury-d5hx008-1873824543_8
       rect:
         serializedVersion: 2
-        x: 2076
-        y: 4
-        width: 248
-        height: 383
+        x: 552
+        y: 30
+        width: 141
+        height: 192
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ebe7dfd2f30af3860800000000000000
-      internalID: 7511898896692248254
+      spriteID: e5c253e8187045880800000000000000
+      internalID: -8623259133489632162
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: uKH0t-831648952_9
+      name: volt_sprite_sheet_by_kwelfury-d5hx008-1873824543_9
       rect:
         serializedVersion: 2
-        x: 2332
-        y: 21
-        width: 277
-        height: 366
+        x: 735
+        y: 39
+        width: 137
+        height: 187
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 78347824a33a88ec0800000000000000
-      internalID: -3564419634444156025
+      spriteID: 85844c53abff6cec0800000000000000
+      internalID: -3546866481276630952
       vertices: []
       indices: 
       edges: []
